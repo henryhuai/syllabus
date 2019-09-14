@@ -12,6 +12,6 @@ define void @print_integer(i32) #0 {
 }
 
 define i32 @main() #0 {
-  ; EMIT CODE FROM YOUR COMPILER HERE
+  dcdc
   ret i32 0
 }
